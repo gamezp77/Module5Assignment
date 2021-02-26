@@ -9,8 +9,10 @@
 </head>
 <body>
     <header>
- <h1>This is me</h1><button>You already know me</button><button>Lets get started</button>
-        </header>
+        <a>This is me</a>
+        <button>You already know me</button>
+        <button>Lets get started</button>
+    </header>
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
@@ -18,7 +20,16 @@
     </div>
 
     <footer class="border-top footer text-muted">
-        <p>About me for HMTL Class Pablo Gamez</p>
+        <div class="container">
+            <a>About me for </a>
+            <a href="http://google.com"
+               target="blank">HMTL</a>
+            <a>Class Pablo Gamez
+            </a>
+
+        </div>
+
+
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>

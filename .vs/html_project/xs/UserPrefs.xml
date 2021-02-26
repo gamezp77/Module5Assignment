@@ -1,9 +1,8 @@
 ﻿<Properties StartupConfiguration="{3FB3E186-FA83-42CF-B6F2-778BF2802139}|Default">
   <MonoDevelop.Ide.ItemProperties.html__project PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="html_project/Views/Home/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="html_project/Views/Shared/_Layout.cshtml">
     <Files>
-      <File FileName="html_project/Views/Shared/_Layout.cshtml" Line="21" Column="51" />
-      <File FileName="html_project/Views/Home/Index.cshtml" Line="42" Column="12" />
+      <File FileName="html_project/Views/Shared/_Layout.cshtml" Line="13" Column="1" />
       <File FileName="html_project/Startup.cs" />
     </Files>
     <Pads>
@@ -12,10 +11,10 @@
           <Node name="html_project" expanded="True">
             <Node name="html_project" expanded="True">
               <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True">
-                  <Node name="Index.cshtml" selected="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
                 </Node>
-                <Node name="Shared" expanded="True" />
               </Node>
               <Node name="wwwroot" expanded="True" />
             </Node>
