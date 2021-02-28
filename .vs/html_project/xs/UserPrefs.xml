@@ -2,8 +2,9 @@
   <MonoDevelop.Ide.ItemProperties.html__project PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workbench ActiveDocument="html_project/Views/Shared/_Layout.cshtml">
     <Files>
-      <File FileName="html_project/Views/Shared/_Layout.cshtml" Line="13" Column="1" />
+      <File FileName="html_project/Views/Shared/_Layout.cshtml" Line="22" Column="17" />
       <File FileName="html_project/Startup.cs" />
+      <File FileName="html_project/Views/Home/Index.cshtml" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,7 +17,9 @@
                   <Node name="_Layout.cshtml" selected="True" />
                 </Node>
               </Node>
-              <Node name="wwwroot" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="images" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
