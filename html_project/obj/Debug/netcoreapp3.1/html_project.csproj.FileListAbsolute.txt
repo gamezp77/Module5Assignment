@@ -702,3 +702,4 @@
 /Users/gamezjr/Desktop/HTML Project/MODULE2Assignment-master/html_project/obj/Debug/netcoreapp3.1/html_project.dll
 /Users/gamezjr/Desktop/HTML Project/MODULE2Assignment-master/html_project/obj/Debug/netcoreapp3.1/html_project.pdb
 /Users/gamezjr/Desktop/HTML Project/MODULE2Assignment-master/html_project/obj/Debug/netcoreapp3.1/html_project.genruntimeconfig.cache
+/Users/gamezjr/Desktop/HTML Project/MODULE2Assignment-master/html_project/obj/Debug/netcoreapp3.1/Razor/Views/Home/Register.cshtml.g.cs

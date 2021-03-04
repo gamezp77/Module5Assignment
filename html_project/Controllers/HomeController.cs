@@ -22,8 +22,12 @@ namespace html_project.Controllers
         {
             return View();
         }
-
         public IActionResult Privacy()
+        {
+            return View();
+
+        }
+        public IActionResult Register()
         {
             return View();
         }
